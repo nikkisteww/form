@@ -1,8 +1,7 @@
 {
-    "firstName": "John",
-    "lastName": "Doe",
-    "age": 25,
-    "zipCode": "87946",
-    "language": "html"
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "email": "bobsmith@aol.com",
+    "number": "2561234567"
 
 }
